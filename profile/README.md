@@ -10,6 +10,12 @@ Dyme was developed to promote the adoption and growth of Web 3 by addressing the
 
 Dyme tackles the challenge in three main areas necessary for a decentralized but standardized economic structure: democratic governance, decentralized management, and transparent economic structures and goals.
 
+## Ignite modules Dyme has built 🧙
+
+Dyme's largest contribution to the Cosmos community is an entirely new governance module. We will publish the code shortly.
+
+The codebase shifts from the stock Ignite "one token, one vote" to a "one wallet, one vote" model. This caused some understandable development headaches. ;-)
+
 <!--
 
 **Here are some ideas to get you started:**
