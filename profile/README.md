@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://dyme.network/wp-content/uploads/2023/02/dyme-logo-reversed.svg">
+</div>
+
 ## Welcome to the Dyme Foundation repo 👋
 
 Dyme is a DAO-managed Web 3.0 reserve cryptocurrency built on Cosmos.
