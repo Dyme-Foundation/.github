@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://dyme.network/wp-content/uploads/2023/02/dyme-logo-reversed.svg" width="100" />
+  <img src="https://dyme.network/wp-content/uploads/2023/02/dyme-logo-reversed.svg" width="200" />
 </div>
 
 ## Welcome to the Dyme Foundation repo 👋
