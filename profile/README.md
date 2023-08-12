@@ -23,7 +23,9 @@ Dyme's first project Lifetoken built a new scheduler module which has been incor
 ## 👩‍💻 Useful resources
 
 Dyme Website: https://www.dyme.network
+
 LinkedIn: https://www.linkedin.com/company/dyme/
+
 Dyme Blog: https://dyme.network/web3-news/
 
 <!--
