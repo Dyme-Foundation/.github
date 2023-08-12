@@ -12,9 +12,19 @@ Dyme tackles the challenge in three main areas necessary for a decentralized but
 
 ## Ignite modules Dyme has built 🧙
 
-Dyme's largest contribution to the Cosmos community is an entirely new governance module. We will publish the code shortly.
+Dyme's largest contribution to the Cosmos community is an entirely new governance module. We will shortly publish the code to the Cosmos community.
 
 The codebase shifts from the stock Ignite "one token, one vote" to a "one wallet, one vote" model. This caused some understandable development headaches. ;-)
+
+The governance module follows Dyme's particular governance path. This path follows the same flow as other Cosmos chains, beginning with a proposal being 
+
+Dyme's first project Lifetoken built a new scheduler module which has been incorporated into Dyme. The scheduler module will also shortly be published to the Cosmos community.
+
+## 👩‍💻 Useful resources
+
+Dyme Website: https://www.dyme.network
+LinkedIn: https://www.linkedin.com/company/dyme/
+Dyme Blog: https://dyme.network/web3-news/
 
 <!--
 
